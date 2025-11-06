@@ -1,6 +1,6 @@
 # Project02-LLM-Classification-Finetuning
 
-## Forder Structure
+## Folder Structure
 ```markdown
 root
 ├── step1/
