@@ -14,5 +14,6 @@ root
 │   └── submission.csv
 └── step5/
     ├── main.ipynb
+    ├── kaggle.ipynb # to submission kaggle for inference
     └── submission.csv
 ```
