@@ -1,7 +1,7 @@
 import nbformat
 
 # 노트북 파일 읽기
-notebook_path = './step5/main.ipynb'  # 실제 파일 경로로 변경
+notebook_path = './step2/main.ipynb'  # 실제 파일 경로로 변경
 with open(notebook_path, 'r', encoding='utf-8') as f:
     nb = nbformat.read(f, as_version=4)
 
