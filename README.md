@@ -1,4 +1,5 @@
-#  Team Project 2 (Team11): A Study on LLM Response Preference Prediction and Classification
+#  Team Project 2 (Team11): 
+# A Study on LLM Response Preference Prediction and Classification
 ## CS 53744 Machine Learning Project - Instructor: Professor Jongmin Lee
 
 **Team Members:** 20222446 Hyounsoo Kim, 20201876 Sanghyun Na, 20203009 Jaehyun Park
@@ -26,8 +27,6 @@ root
 **Project Goal:** To develop a multi-class classification model that predicts the human-annotated winner (A Wins, B Wins, or Tie) between two competing LLM responses (A, B) for a given prompt, using the Kaggle 'LLM Classification Finetuning' dataset.
 
 **Evaluation Metric:** Multi-class Log Loss (Target: Minimization)
-
-**GitHub Repository:** [github.com/MachineLearning-Project-Team11/Project02-LLM-Classification-Finetuning]
 
 ---
 
